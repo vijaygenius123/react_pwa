@@ -14,4 +14,4 @@ const fetchWeather = async (query) => {
     return data
 }
 
-export const { fetchWeather }
+export { fetchWeather }
